@@ -18,5 +18,4 @@ function bubbleSort(arr) {
 }
 
 var Arr=[3,4,1,90,44,29,22,38,54,93,12,34,56,6,8,95];
-
 console.log(bubbleSort(Arr));
